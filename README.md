@@ -8,10 +8,10 @@ This goes along with the medium post [Beginner's Guide to React Router](https://
 
 1. Git clone the project
 2. cd into the project directory
-3. run '''npm install''' from the terminal
-4. run '''npm start''' from the terminal
+3. run `npm install` from the terminal
+4. run `npm start` from the terminal
 
-'''
+```
 npm install
 npm start
-'''
+```
